@@ -4,7 +4,7 @@ This project is my first exploration of using computer vision and LLMs, as well 
 
 After studying ROS, I was brainstorming the possible applications of robotics when I had an idea: robotic seeing-eye dogs! Currently, it involves years of training for dogs to become a guide dog [(source)](https://www.cnib.ca/en/blog/inside-scoop-what-it-takes-train-guide-dog?region=bc#:~:text=Each%20dog%20that%20comes%20into,involves%20three%20years%20of%20training), but what if we could use robots instead? This would reduce training time and also make them accessible to people unable to take care of an animal.
 
-The demo available here is meant to serve as a “proof of concept” and show how this idea may be actualized. 
+The [demo](https://www.youtube.com/watch?v=HxpIs5khI1I) available here is meant to serve as a “proof of concept” and show how this idea may be fully actualized. 
 
 # Explanation
 
